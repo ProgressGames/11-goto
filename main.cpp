@@ -4,11 +4,11 @@ using namespace std;
 int main() {
     
     cout << 1 << endl;
-    goto link; //начало пропуска кода
-    cout << 2 << endl; //Не выполняеться
+    goto link; //РЅР°С‡Р°Р»Рѕ РїСЂРѕРїСѓСЃРєР° РєРѕРґР° | beginning of skipping a code
+    cout << 2 << endl; //РќРµ РІС‹РїРѕР»РЅСЏРµС‚СЊСЃСЏ | Not being executed
     
-    cout << 3 << endl; //Не выполняеться
-    link://ссылка где продолжить код
+    cout << 3 << endl; //РќРµ РІС‹РїРѕР»РЅСЏРµС‚СЊСЃСЏ | Not being executed
+    link://СЃСЃС‹Р»РєР° РіРґРµ РїСЂРѕРґРѕР»Р¶РёС‚СЊ РєРѕРґ | link where to continue the code
     cout << 4 << endl;
 
     cout << 5 << endl;
